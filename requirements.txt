@@ -1,0 +1,11 @@
+requests
+urllib
+time
+argparse
+sys
+colorama
+subprocess
+sublist3r
+subfinder
+assetfinder
+

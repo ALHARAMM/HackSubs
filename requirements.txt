@@ -1,7 +1,0 @@
-requests
-urllib
-time
-argparse
-sys
-colorama
-subprocess

@@ -12,7 +12,7 @@ pip install requirements.txt
 python3 HackSubs.py
 
 ## Usage
-HackSubs.py [-h] -d DOMAIN [-o OUTPUT] [-a ALLSUBDOMAINS]
+HackSubs.py [-h] -d DOMAIN [-o OUTPUT]
 
 options:
   -h, --help            show this help message and exit
@@ -20,10 +20,7 @@ options:
                         Target Domain.
   -o OUTPUT, --output OUTPUT
                         Output to File.
-  -a ALLSUBDOMAINS, --allsubdomains ALLSUBDOMAINS
-                        All Subdomains of This Domain.
-
-python3 HackSubs.py -d https://domain.com -a https://domain.com -o output.txt
+python3 HackSubs.py -d example.com -o output.txt
 
 Then Enjoy :)
 

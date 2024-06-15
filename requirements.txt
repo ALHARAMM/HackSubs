@@ -1,11 +1,8 @@
-requests
-urllib
-time
-argparse
-sys
-colorama
-subprocess
-sublist3r
-subfinder
-assetfinder
+# Python packages
+colorama==0.4.4
+requests==2.26.0
 
+# External tools (install instructions provided below)
+# sublist3r: https://github.com/aboul3la/Sublist3r
+# subfinder: https://github.com/projectdiscovery/subfinder
+# assetfinder: https://github.com/tomnomnom/assetfinder

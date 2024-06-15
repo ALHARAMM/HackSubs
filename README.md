@@ -6,12 +6,15 @@ to save time in BugHunting
 ## INSTALLATION
 
 git clone https://github.com/ALHARAMM/HackSubs.git
-
 cd HackSubs
+1. Install Python Dependencies
 pip install requirements.txt
-python3 HackSubs.py
-
+2. Install External Tools
+apt install sublist3r
+apt install subfinder
+apt install assetfinder
 ## Usage
+python3 HackSubs.py
 HackSubs.py [-h] -d DOMAIN [-o OUTPUT]
 
 options:
